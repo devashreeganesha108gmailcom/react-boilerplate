@@ -1,0 +1,19 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devashreeganesha108gmailcom/react-boilerplate.git"
+  },
+  "keywords": [
+    "Node",
+    "React"
+  ],
+  "author": "Devashish Shrestha",
+  "license": "ISC"
+}
